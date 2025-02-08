@@ -1,10 +1,3 @@
-# VII-Sem-Project
-
-## recommendation System 
-- Hybrid Model.
-- Collaborative.
-- Content Based Model.
----
 
 # College Hub
 
